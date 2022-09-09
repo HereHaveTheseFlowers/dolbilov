@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi there, I'm <span style="color: #3794ff">Kirill</span>
-    <img src="./hi.gif" height="32"/>
+    <img src="./hi.gif" height="32" width="32"/>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+junior+frontend-developer.)](https://git.io/typing-svg)
